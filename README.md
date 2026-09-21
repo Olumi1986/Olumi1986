@@ -1,3 +1,4 @@
+[AI B2B Lead Intelligence & Qualification.json](https://github.com/user-attachments/files/32487439/AI.B2B.Lead.Intelligence.Qualification.json)
 # AI B2B Lead Intelligence & Qualification System
 
 An AI-powered B2B lead qualification and outreach automation built with n8n, OpenRouter, Webhooks, Gmail, and an n8n Data Table.
